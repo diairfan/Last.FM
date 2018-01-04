@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Last FM</string>
+    <string name="search_users_hint">Enter last.fm user name Artist</string>
+
+</resources>
